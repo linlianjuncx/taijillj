@@ -14,6 +14,3 @@ taiji-llj
 
 
 
-#master somthing
-
-
