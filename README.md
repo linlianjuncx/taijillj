@@ -1,5 +1,6 @@
 # taijillj
 taiji-llj
+<<<<<<< master
 
 #master somthing
 
@@ -14,3 +15,6 @@ taiji-llj
 
 
 
+=======
+#master somthing
+>>>>>>> 574c60b #94
