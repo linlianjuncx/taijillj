@@ -1,7 +1,6 @@
 # taijillj
 taiji-llj
-<<<<<<< master
-<<<<<<< master
+
 #master somthing
 
 
@@ -15,4 +14,5 @@ taiji-llj
 
 
 #master somthing
+
 
