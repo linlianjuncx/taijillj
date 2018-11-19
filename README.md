@@ -1,5 +1,6 @@
 # taijillj
 taiji-llj
+<<<<<<< master
 #master somthing
 
 
@@ -8,3 +9,6 @@ taiji-llj
 # master third somthing
 
 #online confilct
+
+#master somthing
+
